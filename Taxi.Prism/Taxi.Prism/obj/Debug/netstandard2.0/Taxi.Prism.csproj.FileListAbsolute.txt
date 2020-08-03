@@ -1,0 +1,68 @@
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Prism\Taxi.Prism\bin\Debug\netstandard2.0\Taxi.Prism.deps.json
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Prism\Taxi.Prism\bin\Debug\netstandard2.0\Taxi.Prism.dll
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Prism\Taxi.Prism\bin\Debug\netstandard2.0\Taxi.Prism.pdb
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.csprojAssemblyReference.cache
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.AssemblyInfoInputs.cache
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.AssemblyInfo.cs
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.dll
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.pdb
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Prism\Taxi.Prism\bin\Debug\netstandard2.0\Taxi.Common.dll
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Prism\Taxi.Prism\bin\Debug\netstandard2.0\Taxi.Common.pdb
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Views\GroupPage.xaml.g.cs
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Views\ModifyUserPage.xaml.g.cs
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Views\ReportPage.xaml.g.cs
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Views\TaxiHistoryPage.xaml.g.cs
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Views\TaxiMasterDetailPage.xaml.g.cs
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.csproj.CopyComplete
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.csproj.CoreCompileInputs.cache
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\bin\Debug\netstandard2.0\Taxi.Prism.deps.json
+D:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\bin\Debug\netstandard2.0\Taxi.Prism.dll
+D:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\bin\Debug\netstandard2.0\Taxi.Prism.pdb
+D:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\bin\Debug\netstandard2.0\Taxi.Common.dll
+D:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\bin\Debug\netstandard2.0\Taxi.Common.pdb
+D:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.csprojAssemblyReference.cache
+D:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Views\GroupPage.xaml.g.cs
+D:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+D:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Views\ModifyUserPage.xaml.g.cs
+D:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Views\ReportPage.xaml.g.cs
+D:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Views\TaxiHistoryPage.xaml.g.cs
+D:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Views\TaxiMasterDetailPage.xaml.g.cs
+D:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.AssemblyInfoInputs.cache
+D:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.AssemblyInfo.cs
+D:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.csproj.CopyComplete
+D:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.dll
+D:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.pdb
+D:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.Resources.Resource.resources
+D:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.csproj.GenerateResource.cache
+D:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.csproj.CoreCompileInputs.cache
+D:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\bin\Debug\netstandard2.0\Taxi.Prism.deps.json
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\bin\Debug\netstandard2.0\Taxi.Prism.dll
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\bin\Debug\netstandard2.0\Taxi.Prism.pdb
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\bin\Debug\netstandard2.0\Taxi.Common.dll
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\bin\Debug\netstandard2.0\Taxi.Common.pdb
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.csprojAssemblyReference.cache
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.Resources.Resource.resources
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.csproj.GenerateResource.cache
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Views\GroupPage.xaml.g.cs
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Views\ModifyUserPage.xaml.g.cs
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Views\ReportPage.xaml.g.cs
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Views\TaxiHistoryPage.xaml.g.cs
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Views\TaxiMasterDetailPage.xaml.g.cs
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.AssemblyInfoInputs.cache
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.AssemblyInfo.cs
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.csproj.CoreCompileInputs.cache
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.csproj.CopyComplete
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.dll
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.pdb
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Views\TripDetailPage.xaml.g.cs

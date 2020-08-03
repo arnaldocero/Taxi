@@ -1,0 +1,27 @@
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Common\bin\Debug\netstandard2.0\Taxi.Common.deps.json
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Common\bin\Debug\netstandard2.0\Taxi.Common.dll
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Common\bin\Debug\netstandard2.0\Taxi.Common.pdb
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.csprojAssemblyReference.cache
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.AssemblyInfoInputs.cache
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.AssemblyInfo.cs
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.dll
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.pdb
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.csproj.CoreCompileInputs.cache
+D:\Visual studio proyectos\Taxi\Taxi.Common\bin\Debug\netstandard2.0\Taxi.Common.deps.json
+D:\Visual studio proyectos\Taxi\Taxi.Common\bin\Debug\netstandard2.0\Taxi.Common.dll
+D:\Visual studio proyectos\Taxi\Taxi.Common\bin\Debug\netstandard2.0\Taxi.Common.pdb
+D:\Visual studio proyectos\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.csprojAssemblyReference.cache
+D:\Visual studio proyectos\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.AssemblyInfoInputs.cache
+D:\Visual studio proyectos\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.AssemblyInfo.cs
+D:\Visual studio proyectos\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.dll
+D:\Visual studio proyectos\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.pdb
+D:\Visual studio proyectos\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.csproj.CoreCompileInputs.cache
+E:\Visual studio proyectos\Taxi\Taxi.Common\bin\Debug\netstandard2.0\Taxi.Common.deps.json
+E:\Visual studio proyectos\Taxi\Taxi.Common\bin\Debug\netstandard2.0\Taxi.Common.dll
+E:\Visual studio proyectos\Taxi\Taxi.Common\bin\Debug\netstandard2.0\Taxi.Common.pdb
+E:\Visual studio proyectos\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.csprojAssemblyReference.cache
+E:\Visual studio proyectos\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.AssemblyInfoInputs.cache
+E:\Visual studio proyectos\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.AssemblyInfo.cs
+E:\Visual studio proyectos\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.dll
+E:\Visual studio proyectos\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.pdb
+E:\Visual studio proyectos\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.csproj.CoreCompileInputs.cache

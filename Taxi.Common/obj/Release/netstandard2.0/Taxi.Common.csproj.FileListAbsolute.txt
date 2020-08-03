@@ -1,0 +1,9 @@
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Common\bin\Release\netstandard2.0\Taxi.Common.deps.json
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Common\bin\Release\netstandard2.0\Taxi.Common.dll
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Common\bin\Release\netstandard2.0\Taxi.Common.pdb
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Common\obj\Release\netstandard2.0\Taxi.Common.csprojAssemblyReference.cache
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Common\obj\Release\netstandard2.0\Taxi.Common.AssemblyInfoInputs.cache
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Common\obj\Release\netstandard2.0\Taxi.Common.AssemblyInfo.cs
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Common\obj\Release\netstandard2.0\Taxi.Common.csproj.CoreCompileInputs.cache
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Common\obj\Release\netstandard2.0\Taxi.Common.dll
+C:\Users\Arnaldo\source\repos\Taxi\Taxi.Common\obj\Release\netstandard2.0\Taxi.Common.pdb

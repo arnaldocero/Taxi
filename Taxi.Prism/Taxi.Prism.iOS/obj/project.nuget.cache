@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZMiN6SBd63xp/N72X/Fn0CIdLMnbYTaRXnV51Ft+Vl4RCbH0lZGt4sG0X8t7cNLzZbAJr5X9SUHCBiBMHlaq4Q==",
+  "success": true,
+  "projectFilePath": "E:\\Visual studio proyectos\\Taxi\\Taxi.Prism\\Taxi.Prism.iOS\\Taxi.Prism.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arnaldo\\.nuget\\packages\\dryioc.dll\\4.0.7\\dryioc.dll.4.0.7.nupkg.sha512",
+    "C:\\Users\\Arnaldo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Arnaldo\\.nuget\\packages\\plugin.permissions\\3.0.0.12\\plugin.permissions.3.0.0.12.nupkg.sha512",
+    "C:\\Users\\Arnaldo\\.nuget\\packages\\prism.core\\7.2.0.1422\\prism.core.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\Arnaldo\\.nuget\\packages\\prism.dryioc.forms\\7.2.0.1422\\prism.dryioc.forms.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\Arnaldo\\.nuget\\packages\\prism.forms\\7.2.0.1422\\prism.forms.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\Arnaldo\\.nuget\\packages\\syncfusion.licensing\\17.4.0.51\\syncfusion.licensing.17.4.0.51.nupkg.sha512",
+    "C:\\Users\\Arnaldo\\.nuget\\packages\\syncfusion.xamarin.core\\17.4.0.51\\syncfusion.xamarin.core.17.4.0.51.nupkg.sha512",
+    "C:\\Users\\Arnaldo\\.nuget\\packages\\syncfusion.xamarin.sfbusyindicator\\17.4.0.51\\syncfusion.xamarin.sfbusyindicator.17.4.0.51.nupkg.sha512",
+    "C:\\Users\\Arnaldo\\.nuget\\packages\\syncfusion.xamarin.sfrating\\17.4.0.51\\syncfusion.xamarin.sfrating.17.4.0.51.nupkg.sha512",
+    "C:\\Users\\Arnaldo\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\Arnaldo\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
+    "C:\\Users\\Arnaldo\\.nuget\\packages\\xam.plugin.connectivity\\3.2.0\\xam.plugin.connectivity.3.2.0.nupkg.sha512",
+    "C:\\Users\\Arnaldo\\.nuget\\packages\\xam.plugin.geolocator\\4.5.0.6\\xam.plugin.geolocator.4.5.0.6.nupkg.sha512",
+    "C:\\Users\\Arnaldo\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
+    "C:\\Users\\Arnaldo\\.nuget\\packages\\xamarin.essentials.interfaces\\1.5.2\\xamarin.essentials.interfaces.1.5.2.nupkg.sha512",
+    "C:\\Users\\Arnaldo\\.nuget\\packages\\xamarin.forms\\4.5.0.617\\xamarin.forms.4.5.0.617.nupkg.sha512",
+    "C:\\Users\\Arnaldo\\.nuget\\packages\\xamarin.forms.maps\\4.4.0.991640\\xamarin.forms.maps.4.4.0.991640.nupkg.sha512"
+  ],
+  "logs": []
+}
