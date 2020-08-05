@@ -109,10 +109,8 @@ E:\Visual studio proyectos\Taxi\Taxi.Web\bin\Debug\netcoreapp2.1\Taxi.Common.pdb
 E:\Visual studio proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.csprojAssemblyReference.cache
 E:\Visual studio proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.AssemblyInfoInputs.cache
 E:\Visual studio proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.AssemblyInfo.cs
-E:\Visual studio proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.csproj.CoreCompileInputs.cache
 E:\Visual studio proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.RazorAssemblyInfo.cache
 E:\Visual studio proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.RazorAssemblyInfo.cs
-E:\Visual studio proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
 E:\Visual studio proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.TagHelpers.input.cache
 E:\Visual studio proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.TagHelpers.output.cache
 E:\Visual studio proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.RazorCoreGenerate.cache
@@ -145,3 +143,6 @@ E:\Visual studio proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Razor\Views\Acc
 E:\Visual studio proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Razor\Views\Account\_User.cshtml.g.cs
 E:\Visual studio proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Razor\Views\Account\ChangeUser.cshtml.g.cs
 E:\Visual studio proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Razor\Views\Account\ChangePassword.cshtml.g.cs
+E:\Visual studio proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.csproj.CoreCompileInputs.cache
+E:\Visual studio proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+E:\Visual studio proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs

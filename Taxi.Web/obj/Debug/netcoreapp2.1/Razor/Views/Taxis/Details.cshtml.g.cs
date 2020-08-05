@@ -86,7 +86,7 @@ using Taxi.Web.Models;
             WriteLiteral("\r\n        </dd>\r\n    </dl>\r\n</div>\r\n<div>\r\n    ");
             EndContext();
             BeginContext(378, 78, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fd79a0c5a5e342eea24442d4baa8f990", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9ce097c68cbe4fc59ecd707b7e0cc8c2", async() => {
                 BeginContext(448, 4, true);
                 WriteLiteral("Edit");
                 EndContext();
@@ -122,7 +122,7 @@ using Taxi.Web.Models;
             WriteLiteral("\r\n    ");
             EndContext();
             BeginContext(462, 62, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b21ee75eea2e4f1c822e757d31d81648", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a0d6e57e76864f4ea31d4d78f46466d4", async() => {
                 BeginContext(508, 12, true);
                 WriteLiteral("Back to List");
                 EndContext();
