@@ -117,23 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-    <data name="TaxiHistory" xml:space="preserve">
-    <value>Taxi History</value>
-  </data>
   <data name="Error" xml:space="preserve">
-    <value>Error</value>
+    <value>Errour</value>
   </data>
-  <data name="PlaqueError1" xml:space="preserve">
-    <value>You must enter a plaque.</value>
+  <data name="Despliegue" xml:space="preserve">
+    <value>Vous devez entrer une plaque.!</value>
   </data>
   <data name="Accept" xml:space="preserve">
-    <value>Accept</value>
+    <value>Accepter</value>
+  </data>
+  <data name="TaxiHistory" xml:space="preserve">
+    <value>histoire du taxi</value>
+  </data>
+  <data name="PlaqueError1" xml:space="preserve">
+    <value>Vous devez entrer une plaque.</value>
   </data>
   <data name="PlaqueError2" xml:space="preserve">
-    <value>The plaque must start with three letters and end with three numbers.</value>
+    <value>La plaque doit commencer par trois lettres et se terminer par trois chiffres.!</value>
   </data>
   <data name="ConnectionError" xml:space="preserve">
-    <value>Check the internet connection.</value>
+    <value>Vérifiez la connexion Internet</value>
   </data>
-
 </root>
