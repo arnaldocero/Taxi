@@ -70,6 +70,24 @@ namespace Taxi.Prism.Resources {
         }
         
         /// <summary>
+        ///   Busca una cadena traducida similar a Admin my user group.
+        /// </summary>
+        public static string AdminMyUserGroup {
+            get {
+                return ResourceManager.GetString("AdminMyUserGroup", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Check Plaque.
+        /// </summary>
+        public static string CheckPlaque {
+            get {
+                return ResourceManager.GetString("CheckPlaque", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Busca una cadena traducida similar a Check the internet connection..
         /// </summary>
         public static string ConnectionError {
@@ -79,11 +97,74 @@ namespace Taxi.Prism.Resources {
         }
         
         /// <summary>
+        ///   Busca una cadena traducida similar a Driver.
+        /// </summary>
+        public static string Driver {
+            get {
+                return ResourceManager.GetString("Driver", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Busca una cadena traducida similar a Error.
         /// </summary>
         public static string Error {
             get {
                 return ResourceManager.GetString("Error", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Loading....
+        /// </summary>
+        public static string Loading {
+            get {
+                return ResourceManager.GetString("Loading", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Log in.
+        /// </summary>
+        public static string LogIn {
+            get {
+                return ResourceManager.GetString("LogIn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Modify user.
+        /// </summary>
+        public static string ModifyUser {
+            get {
+                return ResourceManager.GetString("ModifyUser", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a New trip.
+        /// </summary>
+        public static string NewTrip {
+            get {
+                return ResourceManager.GetString("NewTrip", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Number of trips.
+        /// </summary>
+        public static string NumberOfTrips {
+            get {
+                return ResourceManager.GetString("NumberOfTrips", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Plaque.
+        /// </summary>
+        public static string Plaque {
+            get {
+                return ResourceManager.GetString("Plaque", resourceCulture);
             }
         }
         
@@ -102,6 +183,78 @@ namespace Taxi.Prism.Resources {
         public static string PlaqueError2 {
             get {
                 return ResourceManager.GetString("PlaqueError2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Enter plaque....
+        /// </summary>
+        public static string PlaquePlaceHolder {
+            get {
+                return ResourceManager.GetString("PlaquePlaceHolder", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Qualification.
+        /// </summary>
+        public static string Qualification {
+            get {
+                return ResourceManager.GetString("Qualification", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Remarks.
+        /// </summary>
+        public static string Remarks {
+            get {
+                return ResourceManager.GetString("Remarks", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Report an incident.
+        /// </summary>
+        public static string ReportAnIncident {
+            get {
+                return ResourceManager.GetString("ReportAnIncident", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Score.
+        /// </summary>
+        public static string Score {
+            get {
+                return ResourceManager.GetString("Score", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a See taxi history.
+        /// </summary>
+        public static string SeeTaxiHistory {
+            get {
+                return ResourceManager.GetString("SeeTaxiHistory", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Start Date.
+        /// </summary>
+        public static string StartDate {
+            get {
+                return ResourceManager.GetString("StartDate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Start Trip.
+        /// </summary>
+        public static string StartTrip {
+            get {
+                return ResourceManager.GetString("StartTrip", resourceCulture);
             }
         }
         

@@ -22,6 +22,7 @@ com.google.android.material.tabs.TabLayout;E:\Visual studio proyectos\Taxi\Taxi.
 com.google.android.material.tabs.TabLayout;E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism.Android\obj\Debug\100\lp\53\jl\res\layout\rootlayout.xml
 com.google.android.material.tabs.TabLayout;E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism.Android\obj\Debug\100\lp\53\jl\res\layout\tabbar.xml
 com.google.android.material.tabs.TabLayout;obj\Debug\100\res\layout\tabbar.xml
+crc64720bb2db43a66fe9.FormsViewPager;E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism.Android\obj\Debug\100\lp\53\jl\res\layout\rootlayout.xml
 declare-styleable;E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism.Android\obj\Debug\100\lp\7\jl\res\values\attrs.xml
 declare-styleable;E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism.Android\obj\Debug\100\lp\9\jl\res\values\attrs.xml
 enum;E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism.Android\obj\Debug\100\lp\7\jl\res\values\attrs.xml

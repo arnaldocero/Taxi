@@ -2268,3 +2268,5 @@ E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism.Android\obj\Debug\100\andr
 E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism.Android\obj\Debug\100\androidx\proguard\b08cbb88-1d09-4bb5-94ee-efa7d1463dc3.txt
 E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism.Android\obj\Debug\100\androidx\proguard\c688ff48-a550-49ef-9fd3-ed72f469dcf6.txt
 E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism.Android\obj\Debug\100\androidx\proguard\fe8f6089-9ab3-4142-b307-69a6f2168067.txt
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism.Android\bin\Debug\es-CO\Taxi.Prism.resources.dll
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism.Android\bin\Debug\fr\Taxi.Prism.resources.dll

@@ -22,6 +22,14 @@
         },
         "runtime": {
           "Taxi.Prism.dll": {}
+        },
+        "resources": {
+          "es-CO/Taxi.Prism.resources.dll": {
+            "locale": "es-CO"
+          },
+          "fr/Taxi.Prism.resources.dll": {
+            "locale": "fr"
+          }
         }
       },
       "DryIoc.dll/4.0.7": {

@@ -66,3 +66,9 @@ E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\T
 E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.dll
 E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.pdb
 E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Views\TripDetailPage.xaml.g.cs
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\bin\Debug\netstandard2.0\es-CO\Taxi.Prism.resources.dll
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\bin\Debug\netstandard2.0\fr\Taxi.Prism.resources.dll
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.Resources.Resource.es-CO.resources
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.Resources.Resource.fr.resources
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\es-CO\Taxi.Prism.resources.dll
+E:\Visual studio proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\fr\Taxi.Prism.resources.dll
